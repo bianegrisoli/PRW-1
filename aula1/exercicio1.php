@@ -1,4 +1,4 @@
 <?php
-    $var="Olá Mundo";
+    $var="Hello World!\n";
     echo $var;
 ?>
