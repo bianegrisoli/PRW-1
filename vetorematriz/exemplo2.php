@@ -6,6 +6,7 @@
     echo "Quantidade de elementos :". count($alunos)."<br>";
     echo"<br>";
     sort($alunos); //ordena vetor de forma crescente
+    
     for($x = 0; $x <count($alunos); $x++)
     {
         echo "Aluno na posição $x: ".$alunos[$x]."<br>";
